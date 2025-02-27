@@ -1,4 +1,6 @@
+file-notexport.txt
 # Gradle files
+
 .gradle/
 build/
 
